@@ -11,4 +11,6 @@ Chromium Embedded Framework Terminal
 
 5) cd ../build/terminal/Release/
 
-6) ./terminal
+6) ln -s ../../../terminal/web_files/ web_files
+
+7) ./terminal
